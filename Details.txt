@@ -1,0 +1,26 @@
+Netflix Clone Website
+
+
+
+
+
+MEMBERS:
+
+1) Member 1(Lead) Abdul moeed Bhatti - 175193 - 03012341275
+2) Member 2 Muhammad Usman - 175293 - 03212356776
+
+
+
+
+
+WEBSITE LIVE URL:
+
+https://brilliant-syrniki-889b24.netlify.app
+
+
+
+
+GITHUB REPOSITORY LINK:
+
+https://github.com/Abdul-Moeed-Bhatti/Netflix-Clone-Website
+
